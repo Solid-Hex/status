@@ -1,0 +1,14 @@
+{
+  "title": "simontorode.com",
+  "description": "Simon Torode status",
+  "url": "https://simontorode.com",
+  "favicon": "../images/favicon.ico",
+  "gatsby": {
+    "title": "Gatsby",
+    "url": "https://gatsbyjs.com"
+  },
+  "netlify": {
+    "title": "Netlify",
+    "url": "https://netlify.com"
+  }
+}

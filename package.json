@@ -1,0 +1,29 @@
+{
+  "name": "status",
+  "private": true,
+  "description": "Status",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "serve": "gatsby serve",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing \""
+  },
+  "dependencies": {
+    "gatsby": "^2.31.1",
+    "gatsby-plugin-react-helmet": "^3.9.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-helmet": "^6.1.0",
+    "react-hot-loader": "^4.13.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
