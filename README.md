@@ -1,2 +1,2 @@
-# Status
-Simon Torode status
+#Status
+Status of my employment
